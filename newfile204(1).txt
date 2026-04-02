@@ -1,1 +1,0 @@
-vless://e36aee33-7874-4030-92f6-cad6efef7a07@178.154.216.199:5435?security=reality&type=grpc&headerType=&authority=&serviceName=&flow=&mode=gun&sni=travel.yandex.ru&fp=&pbk=xxT-7jeWprYaDwFJ3LsJ5QBtrrE42dAagAwo4SGJwTM&sid=#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20UNIV%20%7C%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%E2%84%961
